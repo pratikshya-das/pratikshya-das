@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Pratikshya
+- 👋 Hi, I’m Pratikshya and I am a polyglot developer
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Golang
+
 
 
 <!---
