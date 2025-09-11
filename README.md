@@ -33,6 +33,3 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) 
 ![ELK](https://img.shields.io/badge/-Elastic-005571?logo=elastic&logoColor=white)  
-
-![Snake dark](https://raw.githubusercontent.com/pratikshya-das/pratikshya-das/output/snake-dark.svg#gh-dark-mode-only)
-![Snake ocean](https://raw.githubusercontent.com/pratikshya-das/pratikshya-das/output/snake-ocean.svg)
