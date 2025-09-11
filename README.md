@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratikshya 
 
-<!--
-**pratikshya-das/pratikshya-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Cloud & DevOps Engineer** | Automating Infrastructure | Building Reliable Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies  
+- **Programming Languages**: Python, Go 
+- **Operating Systems**: Linux (Ubuntu)  
+- **Scripting & Automation**: Bash, Shell  
+- **Version Control**: Git, GitHub  
+- **Containers & Orchestration**: Docker, Kubernetes  
+- **Infrastructure as Code (IaC)**: Terraform, Ansible  
+- **CI/CD Pipelines**: GitHub Actions, Jenkins  
+- **Cloud Platforms**: AWS (EC2, S3, IAM, VPC)  
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
+- **Networking**: DNS, HTTP/S, Load Balancing, Firewalls  
+
+---
