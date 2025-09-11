@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,kubernetes,docker,terraform,anisble,prometheus," />
+    <img src="https://skillicons.dev/icons?i=python,aws,kubernetes,docker,terraform,prometheus," />
   </a>
 </p>
 
