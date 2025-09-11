@@ -19,8 +19,8 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) 
 ![Shell](https://img.shields.io/badge/-Shell-FFD500?logo=powershell&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
