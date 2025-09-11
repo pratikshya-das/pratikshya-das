@@ -3,6 +3,12 @@
 💻 **Cloud & DevOps Engineer** | Automating Infrastructure | Building Reliable Systems  
 📫 Email: pratikshya.tech@gmail.com
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,aws,kubernetes,docker,terraform,anisble,prometheus," />
+  </a>
+</p>
+
 ---
 
 ### 🛠️ Skills & Technologies  
