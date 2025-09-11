@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Pratikshya 
 
 💻 **Cloud & DevOps Engineer** | Automating Infrastructure | Building Reliable Systems  
+📫 Email: pratikshya.tech@gmail.com
 
 ---
 
