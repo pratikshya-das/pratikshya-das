@@ -34,7 +34,3 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) 
 ![ELK](https://img.shields.io/badge/-Elastic-005571?logo=elastic&logoColor=white)  
 
-![DNS](https://img.shields.io/badge/-DNS-0078D7?logo=windows-terminal&logoColor=white) 
-![HTTP](https://img.shields.io/badge/-HTTP-FF6C37?logo=postman&logoColor=white) 
-![Firewalls](https://img.shields.io/badge/-Firewalls-FF0000?logo=fortinet&logoColor=white)  
-
