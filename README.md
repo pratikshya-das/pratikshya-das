@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pratikshya 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11xBk5MoWjrYoE/giphy.gif" width="500" alt="Computer typing">
+  <img src="https://media.giphy.com/media/11xBk5MoWjrYoE/giphy.gif" width="300" alt="Computer typing">
 </p>
 
 
