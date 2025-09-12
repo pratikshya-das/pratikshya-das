@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pratikshya;Cloud+%26+DevOps+Engineer;Automating+Infrastructure;Building+Reliable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pratikshya;Cloud+%26+DevOps+Engineer;Automating+Infrastructure;Building+Reliable+Systems)](https://git.io/typing-svg)
 
 </td>
 <td>
