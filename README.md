@@ -17,7 +17,17 @@
 
 </div>
 
-📫 Email: pratikshya.tech@gmail.com
+<p align="center">
+  <a href="mailto:pratikshya.tech@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/daspratikshya/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px"/>
+  </a>
+</p>
+
+<br> <!-- This adds space -->
 
 <p align="center">
   <a href="https://skillicons.dev">
