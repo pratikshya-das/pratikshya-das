@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Pratikshya 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/11xBk5MoWjrYoE/giphy.gif" width="500" alt="Computer typing">
+</p>
+
+
 💻 **Cloud & DevOps Engineer** | Automating Infrastructure | Building Reliable Systems  
 📫 Email: pratikshya.tech@gmail.com
 
