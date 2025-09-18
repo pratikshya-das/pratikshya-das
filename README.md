@@ -68,3 +68,7 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </p>
+
+
+
+![snake gif](https://github.com/pratikshya-das/pratikshya-das/blob/output/github-contribution-grid-snake-dark.svg)
