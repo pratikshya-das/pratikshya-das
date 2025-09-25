@@ -35,6 +35,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshya-das&layout=compact&theme=radical" />
+ 
+</p>
+
+
+
 ---
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
